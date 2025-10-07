@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arcticzephyr
-- 👀 I’m interested in Mathematics in general, especially ML and QIC 
+- 👀 I’m interested in Mathematics  
 - 🌱 I’m currently learning how to apply my theoretical knowledge to interesting projects
 - 💞️ I’m looking to collaborate on anything interesting thats written in Python 
 - 📫 How to reach me - email: olymcgale@icloud.com  
