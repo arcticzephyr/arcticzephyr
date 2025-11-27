@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arcticzephyr
 - 👀 I’m interested in Mathematics  
 - 🌱 I’m currently learning how to apply my theoretical knowledge to interesting projects
-- 💞️ I’m looking to collaborate on anything interesting thats written in Python 
+- 💞️ I’m looking to collaborate on anything interesting that is written in Python 
 - 📫 How to reach me - email: olymcgale@icloud.com  
 
 <!---
